@@ -1,1 +1,2 @@
-# AlphaCutinTemporaltools
+# Alpha Cut in Temporal Tools
+Temporal Images of  a region/field  captured by the satellite sensor during   various periods of time with a gap of around month is processed. The Similarity between the region is calculated using PCM -classifier with various norms .The tool's main use is depict the areas of paddy. cultivation and River during dry season  . The Areas with similarity index are higlighted and given a alpha cut.
